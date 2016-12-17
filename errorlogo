@@ -1,0 +1,1 @@
+当登陆时出现，ora-01031:insufficient privileges时，选错了，用户所在的组，SYSDBA为管理员组，normal为普通组，一半直邮sys才使用SYSDBA组
